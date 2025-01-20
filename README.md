@@ -40,12 +40,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraghosh7&show_icons=true&locale=en" alt="aritraghosh7" />
 </p>
 
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://streak-stats.demolab.com?user=aritraghosh7" alt="GitHub Streak" />
-    </a>
-</p>
-
 
 <h3 align="center">Support:</h3>
 <p align="center">
