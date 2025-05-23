@@ -40,8 +40,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraghosh7&show_icons=true&locale=en" alt="aritraghosh7" />
 </p>
 
-
-<h3 align="center">Support:</h3>
-<p align="center">
-    
-</p>
